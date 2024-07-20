@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Natural Language processing and Data Science.
 - 💞️ I’m looking to collaborate on anything you would like to share with me.
 - 💙 I love mountains, I find it so peaceful and majestic. I also love baking or cooking, and sewing.
-- 🎧 My favourite song at the moment is "Comme les autres" by Saintard 
+- 🎧 My favourite song at the moment is ["Comme les autres"](https://www.youtube.com/watch?v=lz0kbJ5W45o) by Saintard 
 
 <!---
 Salome28/Salome28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
