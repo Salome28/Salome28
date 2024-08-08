@@ -8,7 +8,7 @@ More about me :
 - 🌍 Travelling is my main passion, and I adore discovering new cultures and talking with people in their native languages. 
 - 💙 Mountains are my favorite type of landscape, I find them so peaceful and majestic. 
 - 🎧 Music plays a big role in my personal development : my favourite song at the moment is ["Comme les autres"](https://www.youtube.com/watch?v=lz0kbJ5W45o) by Saintard.
-    Check out [my Musical data analysis made with NLP(https://medium.com/@salomenkb/baby-one-more-time-the-same-old-baby-through-the-years-uncovering-music-s-most-enduring-word-8534b1ae4c25)] to dive into the evolution of lyrics over the decades
+    Check out [my Musical data analysis made with NLP](https://medium.com/@salomenkb/baby-one-more-time-the-same-old-baby-through-the-years-uncovering-music-s-most-enduring-word-8534b1ae4c25) to dive into the evolution of lyrics over the decades
 
 I hope we can collaborate together someday ! 🤓 
 
