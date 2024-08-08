@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Salome28
 - 👀 I’m interested in languages, Python and traveling.
-- 🌱 I’m currently learning Natural Language processing and Data Science.
+- 🌱 I’m evolving in the field of Natural Language processing and Data Science.
 - 👩🏽‍💻 My current specialty lies in working with Large Language Models (LLMs), a field I am passionate about due to its versatility and the wide range of models available. So far, I have primarily worked with BERT and RoBERTa, but I am eager to expand my expertise by exploring other leading LLMs such as LLaMA, GPT, and Falcon. My experience includes tasks like text classification, sentiment analysis, text generation, and chatbot development, and I look forward to furthering my skills in this exciting area.
 
 More about me : 
